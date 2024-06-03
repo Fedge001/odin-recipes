@@ -1,0 +1,19 @@
+.h1 {
+    font-family: "Brush Script MT", serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#lasagna,
+.pancakes {
+    font-family: "Times New Roman";
+    font-style: italic;
+}
+
+#lasagna {
+    color: red;
+}
+
+.pancakes {
+    color: green;
+}
