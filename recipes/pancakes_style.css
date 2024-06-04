@@ -1,8 +1,8 @@
-.r1 {
-    background-color: red;
+body {
+    background-color: green;
 }
 
-#titre {
+h1 {
     text-align: center;
     font-family: "Brush Script MT", serif;
 }
